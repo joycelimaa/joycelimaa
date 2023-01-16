@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 <h2>☆Programming languages i had contact with </h2>
 
- [![My Skills](https://skillicons.dev/icons?i=java,cpp,py,&theme=light)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=java,c,py,&theme=light)](https://skillicons.dev)
 
 <h2>☆Currently learning</h2>
 
