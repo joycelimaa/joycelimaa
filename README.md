@@ -14,10 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-.
 
+ <img src="https://cdn.discordapp.com/attachments/1064329758650941543/1064329828490293318/Design_sem_nome.gif" height = "180px" align="right">
 
-<img src="https://cdn.discordapp.com/attachments/1064329758650941543/1064329828490293318/Design_sem_nome.gif" height = "180px" align="center">
+<h4>✭ Computer Science Student<br>
+✭ IT technician 
+
+✭ Exchange Student at Gira Mundo Program (2020) </h4>
 
 ![](https://github-readme-stats.vercel.app/api?username=joycelimaa&theme=vue&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=joycelimaa&theme=vue&hide_border=false)<br/>
